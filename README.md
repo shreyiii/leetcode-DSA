@@ -135,6 +135,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreyiii/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -155,4 +156,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreyiii/leetcode-DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreyiii/leetcode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
