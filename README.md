@@ -121,6 +121,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -129,15 +130,18 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +151,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
