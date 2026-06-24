@@ -149,6 +149,7 @@ Happy Coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +167,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyiii/leetcode-DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
