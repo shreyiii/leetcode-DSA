@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,4 +172,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
