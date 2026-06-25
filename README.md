@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0896-monotonic-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyiii/leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
