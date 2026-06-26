@@ -131,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -235,4 +236,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
