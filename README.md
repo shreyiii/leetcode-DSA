@@ -196,6 +196,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
@@ -244,4 +245,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
