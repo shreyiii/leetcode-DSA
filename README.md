@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyiii/leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -207,11 +211,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
