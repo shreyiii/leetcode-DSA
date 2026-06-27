@@ -172,6 +172,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyiii/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
@@ -258,8 +260,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
