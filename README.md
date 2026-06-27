@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/shreyiii/leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
