@@ -125,6 +125,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyiii/leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -249,4 +251,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
