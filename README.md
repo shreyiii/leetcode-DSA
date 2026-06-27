@@ -131,6 +131,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shreyiii/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -195,6 +196,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/shreyiii/leetcode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreyiii/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shreyiii/leetcode-DSA/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
