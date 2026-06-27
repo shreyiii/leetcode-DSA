@@ -155,6 +155,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyiii/leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -179,6 +180,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -190,6 +192,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +206,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyiii/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +219,7 @@ Happy Coding! 🚀
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyiii/leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
@@ -269,4 +274,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
