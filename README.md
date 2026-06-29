@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/shreyiii/leetcode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyiii/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreyiii/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/shreyiii/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyiii/leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyiii/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0896-monotonic-array) |
@@ -191,6 +193,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyiii/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
