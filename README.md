@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/shreyiii/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/shreyiii/leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/shreyiii/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreyiii/leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyiii/leetcode-DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
