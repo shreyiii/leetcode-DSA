@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/shreyiii/leetcode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyiii/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyiii/leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreyiii/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/shreyiii/leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shreyiii/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreyiii/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyiii/leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -206,6 +209,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/shreyiii/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreyiii/leetcode-DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyiii/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/shreyiii/leetcode-DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shreyiii/leetcode-DSA/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyiii/leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
