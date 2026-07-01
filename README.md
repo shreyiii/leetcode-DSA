@@ -134,6 +134,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyiii/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shreyiii/leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/shreyiii/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -281,6 +282,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyiii/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyiii/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
